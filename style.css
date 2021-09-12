@@ -34,7 +34,7 @@ h2 {
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-image: url("../images/bg-stars.svg");
+  background-image: url("./images/bg-stars.svg");
 }
 
 .countdown {
@@ -73,7 +73,7 @@ h2 {
   justify-content: center;
   align-items: center;
   position: absolute;
-  background: url("../images/pattern-hills.svg");
+  background: url("./images/pattern-hills.svg");
 }
 
 .img-bottom svg {
